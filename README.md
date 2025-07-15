@@ -60,4 +60,4 @@ Feel free to open a pull request or issue!
 ---
 
 Maintained with ❤️ by [Alessio Devoto](https://alessiodevoto.github.io/)
-<!-- <meta name="google-site-verification" content="your-verification-code" /> -->
+<meta name="google-site-verification" content="rZITTYNvD408fZhn-SzTh_-vq7FxTj660KU3BkkeViw" />
