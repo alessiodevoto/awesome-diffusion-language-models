@@ -1,4 +1,4 @@
-# Awesome Large Language Diffusion Models 🚀🧠✨
+# Awesome Large Language Diffusion Models 🧠
 
 A curated list of recent and important papers, tools, and resources on **Diffusion Large Language Models (DLMs)**.
 
@@ -6,7 +6,7 @@ A curated list of recent and important papers, tools, and resources on **Diffusi
 
 ---
 
-## 💻 Open-Weight Models
+## 🤖 Open-Weight Models
 
 - **[Llada](https://huggingface.co/GSAI-ML/LLaDA-8B-Instruct)** [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/GSAI-ML/LLaDA-8B-Instruct)
 - **[Dream](https://huggingface.co/Dream-org)** [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/Dream-org)
@@ -14,9 +14,9 @@ A curated list of recent and important papers, tools, and resources on **Diffusi
 
 ---
 
-## Closed-Weight Models
-- [Google Gemini diffusion](https://deepmind.google/models/gemini-diffusion/)
-- [Inception Mercury](https://chat.inceptionlabs.ai/)
+## 💻 Closed-Weight Models
+- Google's [Gemini diffusion](https://deepmind.google/models/gemini-diffusion/)
+- Inception's [Mercury](https://chat.inceptionlabs.ai/)
 
 ---
 
@@ -47,12 +47,16 @@ A curated list of recent and important papers, tools, and resources on **Diffusi
 - **[Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502)**
   *TLDR:* Introduces DDIMs, which speed up diffusion sampling by 10–50× using non-Markovian processes while maintaining high sample quality. 
 
+- WIP 
+
 ---
 
 ## 📚 Blogs 
 
-- **[Dream](https://github.com/HKUNLP/Dream)** [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HKUNLP/Dream) 
-*TLDR:* A 7B diffusion LLM that rivals leading AR models in performance, demonstrating the feasibility of scalable diffusion-based LLMs. 
+- **[Dream](https://github.com/HKUNLP/Dream)(https://github.com/HKUNLP/Dream)**
+  *TLDR:* A 7B diffusion LLM that rivals leading AR models in performance, demonstrating the feasibility of scalable diffusion-based LLMs. 
+
+- **[Peeking Inside Diffusion Language Models with LogitLens](https://alessiodevoto.github.io/Diffusion-Language-Models-Inner-Workings/)** 
 
 ---
 
